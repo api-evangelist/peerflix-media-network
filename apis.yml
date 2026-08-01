@@ -1,8 +1,24 @@
 aid: peerflix-media-network
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/peerflix-media-network.png
 name: Peerflix Media Network
-description: Peerflix Media Network is a company surfaced as a portfolio company of battery-ventures and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Peerflix Media Network was a Palo Alto, California online movie vertical advertising
+  network that grew out of Peerflix, a peer-to-peer DVD-trading marketplace backed by Battery Ventures,
+  3i Group, and BV Capital (~$10M raised across two rounds). Peerflix shut down its DVD trading marketplace
+  in April 2008 and continued briefly as the ad-focused Peerflix Media Network before being acquired by
+  LiveUniverse in September 2008. The company is defunct; its domain (peerflixmedianetwork.com) no longer
+  resolves and it exposes no developer platform, documentation, or API surface. Retained in the API
+  Evangelist network as a Battery Ventures portfolio-history record.
 url: https://raw.githubusercontent.com/api-evangelist/peerflix-media-network/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +26,26 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-acquired-by: LiveUniverse (September 2008)
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Media
+- Advertising
+- Video
+- Movies
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
