@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Peerflix Media Network is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Peerflix Media Network was a Palo Alto, California online movie vertical advertising network that grew out of Peerflix, a peer-to-peer DVD-trading marketplace backed by Battery Ventures, 3i Group, and BV Capital (~$10M raised across two rounds). Peerflix shut down its DVD trading marketplace in April 2008 and continued briefly as the ad-focused Peerflix Media Network before being acquired by LiveUniverse in September 2008. The company is defunct; its domain (peerflixmedianetwork.com) no longer resolves and it exposes no developer platform, documentation, or API surface. Retained in the API Evangelist network as a Battery Ventures portfolio-history record.
+
+**Areas:** Company · Media · Advertising · Video · Movies · Defunct
+
+## Peerflix Media Network on APIs.io (historical record)
+
+Everything profiled for Peerflix Media Network is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/peerflix-media-network/](https://apis.io/providers/peerflix-media-network/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Peerflix Media Network: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/peerflix-media-network/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
